@@ -7,7 +7,6 @@ tempo = []
 for x in range(0, 40):
     tempo.append(x)
 
-
 corrente_armadura = []
 
 exp = math.e
